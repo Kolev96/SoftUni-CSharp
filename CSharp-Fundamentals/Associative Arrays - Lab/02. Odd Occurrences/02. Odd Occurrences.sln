@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Odd Occurrences", "02. Odd Occurrences\02. Odd Occurrences.csproj", "{31B53E8D-1A8E-42C4-B6DF-7692398D9C03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31B53E8D-1A8E-42C4-B6DF-7692398D9C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B53E8D-1A8E-42C4-B6DF-7692398D9C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B53E8D-1A8E-42C4-B6DF-7692398D9C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B53E8D-1A8E-42C4-B6DF-7692398D9C03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF53DABC-72B0-434F-A0AE-CB3E89CE6253}
+	EndGlobalSection
+EndGlobal
